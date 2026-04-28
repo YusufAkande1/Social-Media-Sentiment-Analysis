@@ -1,2 +1,2 @@
-# Sentiment-Data-Analysis
-Data analysis done on the likes and retweet
+# Social-Media-Sentiment-Analysis
+Analysis of social media sentiment and engagement using Python and Power BI
